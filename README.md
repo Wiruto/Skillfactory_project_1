@@ -42,7 +42,7 @@
 **О структуре проекта:**
 
 * [plotly](https://github.com/Wiruto/skillfactory_project_1/tree/master/plotly) - папка с интерактивной графикой построенной с помощью библиотеки plotly;
-* [project-1.ipynb](https://github.com/Wiruto/skillfactory_project_1/blob/9a05c33102ade96717aff5949afb9cae39d9e099/Project-1.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
+* [project-1.ipynb](https://github.com/Wiruto/Skillfactory_project_1/blob/fbc61d11b91b7237a24322b4a74f52531b2a3671/Project-1.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 
 
 ## Описание данных
@@ -67,7 +67,7 @@ git clone https://github.com/Wiruto/skillfactory_project_1.git
 ```
 
 ## Использование
-Вся информация о работе представлена в jupyter-ноутбуке [project-1.ipynb](https://github.com/Wiruto/skillfactory_project_1/blob/9a05c33102ade96717aff5949afb9cae39d9e099/Project-1.ipynb).
+Вся информация о работе представлена в jupyter-ноутбуке [project-1.ipynb](https://github.com/Wiruto/Skillfactory_project_1/blob/fbc61d11b91b7237a24322b4a74f52531b2a3671/Project-1.ipynb).
 
 ## Авторы
 
