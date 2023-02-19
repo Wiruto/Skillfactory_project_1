@@ -40,9 +40,9 @@
 **Данный проект** направлен на демонстрацию умения работы с библиотеками Pandas, Numpy, Plotly. Демострацию навыков работы с функциям, lambda-функциями; умения работать с условными операторами, циклическими операторами; умения анализировать большие базы данных с помощью упомянутых инструментов.
 
 **О структуре проекта:**
-* [data](./data) - папка с исходными табличными данными;
-* [plotly](./plotly) - папка с интерактивной графикой построенной с помощью библиотеки plotly;
-* [project-1.ipynb](./project-1.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
+
+* [plotly](https://github.com/Wiruto/skillfactory_project_1/tree/master/plotly) - папка с интерактивной графикой построенной с помощью библиотеки plotly;
+* [project-1.ipynb](https://github.com/Wiruto/skillfactory_project_1/blob/9a05c33102ade96717aff5949afb9cae39d9e099/Project-1.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 
 
 ## Описание данных
@@ -67,7 +67,7 @@ git clone https://github.com/Wiruto/skillfactory_project_1.git
 ```
 
 ## Использование
-Вся информация о работе представлена в jupyter-ноутбуке [project-1.ipynb](./project-1.ipynb).
+Вся информация о работе представлена в jupyter-ноутбуке [project-1.ipynb](https://github.com/Wiruto/skillfactory_project_1/blob/9a05c33102ade96717aff5949afb9cae39d9e099/Project-1.ipynb).
 
 ## Авторы
 
