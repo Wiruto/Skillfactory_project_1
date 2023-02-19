@@ -2,3 +2,5 @@
 .DS_Store
 # игнорируем папку data
 data/
+# игнорируем папку .ipynb_checkpoints
+.ipynb_checkpoints
